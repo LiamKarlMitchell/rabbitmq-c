@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Source\Anrinch\InfiniteSky\third-party\rabbitmq-c\tests\test_tables.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Source\Anrinch\InfiniteSky\third-party\rabbitmq-c\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{867E9D41-03CF-32B9-BD7C-1EDCD8265794}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
